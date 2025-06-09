@@ -1,0 +1,27 @@
+.bu{
+    list-style: none;
+    color: yellow;
+    background-color: blue;
+}
+
+.manabu{
+    list-style: square;
+    color: aqua;
+    background-color: black;
+}
+
+.buemas{
+    list-style: circle;
+    font-size: 50px;
+    color: green;
+}
+
+h1{
+    text-decoration: none;
+    text-transform: capitalize;
+    opacity: 1;
+}
+
+u{
+    text-decoration: none;
+}
